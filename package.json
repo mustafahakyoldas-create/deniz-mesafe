@@ -1,0 +1,12 @@
+{
+  "name": "deniz-mesafe",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Deniz Mesafe Hesaplayıcı — Eurostat MARNET tabanlı",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "searoute-ts": "^1.2.1"
+  }
+}
